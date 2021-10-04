@@ -17,3 +17,6 @@ C:\Users\duzgu\source\repos\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLay
 C:\Users\duzgu\source\repos\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
 C:\Users\duzgu\source\repos\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migWriter_Edit.resources
 C:\Users\duzgu\source\repos\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_WriterTitle.resources
+C:\Users\duzgu\source\repos\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_Writer_AddStatus.resources
+C:\Users\duzgu\source\repos\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.contentStatus.resources
+C:\Users\duzgu\source\repos\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.addHeadingStatus.resources
