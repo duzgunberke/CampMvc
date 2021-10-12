@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Concrete
 {
-    public class AboutManager:IAboutService
+    public class AboutManager : IAboutService
     {
         IAboutDal _abotDal;
-       
+
         public AboutManager(IAboutDal aboutDal)
         {
             _abotDal = aboutDal;
@@ -20,27 +20,30 @@ namespace BusinessLayer.Concrete
 
         public void AboutDelete(About about)
         {
-            throw new NotImplementedException();
+            _abotDal.Delete(about);
         }
 
         public void AboutUpdate(About about)
         {
-            throw new NotImplementedException();
+            _abotDal.Update(about);
         }
 
-        public void CategoryAdd(About about)
-        {
-            throw new NotImplementedException();
-        }
+        
+        
 
-        public Category GetByID(int id)
+        public About GetByID(int id)
         {
-            throw new NotImplementedException();
+            return _abotDal.Get(x=>x.AboutID==id);
         }
 
         public List<About> GetList()
         {
-            throw new NotImplementedException();
+            return _abotDal.List();
+        }
+
+        public void AboutAdd(About about)
+        {
+            _abotDal.Insert(about);
         }
     }
 }
