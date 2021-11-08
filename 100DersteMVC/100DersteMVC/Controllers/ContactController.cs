@@ -24,5 +24,9 @@ namespace _100DersteMVC.Controllers
             var contactValues = contactManager.GetByID(id);
             return View(contactValues);
         }
+        public PartialViewResult MessageListMenu()
+        {
+            return PartialView();
+        }
     }
 }

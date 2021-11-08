@@ -137,8 +137,11 @@
     <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\ContentController.cs" />
+    <Compile Include="Controllers\ErrorPageController.cs" />
+    <Compile Include="Controllers\GaleryController.cs" />
     <Compile Include="Controllers\HeadingController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MessageController.cs" />
     <Compile Include="Controllers\WriterController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -146,6 +149,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="404Error\css\style.css" />
+    <Content Include="404Error\img\bg.jpg" />
     <Content Include="AdminLTE-3.0.4\build\config\postcss.config.js" />
     <Content Include="AdminLTE-3.0.4\build\config\rollup.config.js" />
     <Content Include="AdminLTE-3.0.4\build\js\AdminLTE.js" />
@@ -1987,6 +1992,13 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\SürekliOlasılıkDAğılımıOlmaŞartı.png" />
+    <Content Include="Images\SürekliOlasılıkDAğılımıOlmaŞartıSoru1.png" />
+    <Content Include="Images\SürekliOlasılıkDAğılımıOlmaŞartıSoru2.png" />
+    <Content Include="Images\SürekliOlasılıkDAğılımıOlmaŞartıSoru3.png" />
+    <Content Include="Images\SürekliOlasılıkDAğılımıOrtalamaDeğer.png" />
+    <Content Include="Images\SürekliOlasılıkDağılımıVaryansHesaplama.png" />
+    <Content Include="Images\SürekliOlasılıkSoru1.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="AdminLTE-3.0.4\.babelrc" />
@@ -2287,6 +2299,14 @@
     <Content Include="Views\About\AboutPartial.cshtml" />
     <Content Include="Views\Contact\Index.cshtml" />
     <Content Include="Views\Contact\GetContactDetails.cshtml" />
+    <Content Include="Views\Contact\MessageListMenu.cshtml" />
+    <Content Include="Views\Message\Inbox.cshtml" />
+    <Content Include="Views\Message\SendBox.cshtml" />
+    <Content Include="Views\Message\NewMessage.cshtml" />
+    <Content Include="Views\Message\GetInBoxMessageDetails.cshtml" />
+    <Content Include="Views\Message\GetSendBoxMessageDetails.cshtml" />
+    <Content Include="Views\ErrorPage\Page404.cshtml" />
+    <Content Include="Views\Galery\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
