@@ -16,15 +16,15 @@ namespace _100DersteMVC.Controllers
         // GET: Message
         MessageManager messageManager = new MessageManager(new EFMessageDal());
         MessageValidator messageValidator = new MessageValidator();
-        public ActionResult Inbox()
+        public ActionResult Inbox(string p)
         {
-            var messsageList = messageManager.GetListInbox();
+            var messsageList = messageManager.GetListInbox(p);
             return View(messsageList);
         }
 
-        public ActionResult SendBox()
+        public ActionResult SendBox(string p)
         {
-            var messageList = messageManager.GetListSendbox();
+            var messageList = messageManager.GetListSendbox(p);
             return View(messageList);
         }
 

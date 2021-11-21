@@ -37,3 +37,5 @@ C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\DataAccessLayer\obj\Debug\D
 C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_ContactDateAdd.resources
 C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
 C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addImage.resources
+C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table_add.resources
+C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete

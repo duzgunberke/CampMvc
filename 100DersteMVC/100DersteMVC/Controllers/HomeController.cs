@@ -26,5 +26,10 @@ namespace _100DersteMVC.Controllers
 
             return View();
         }
+        [AllowAnonymous]
+        public ActionResult HomePage()
+        {
+            return View();
+        }
     }
 }

@@ -17,6 +17,7 @@ namespace _100DersteMVC.Controllers
         // GET: Category
         CategoryManager categoryManager = new CategoryManager(new EFCategoryDal());
 
+        
         public ActionResult Index()
         {
             return View();

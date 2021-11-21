@@ -199,4 +199,7 @@ C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\100DersteMVC\obj\Debug\100D
 C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\100DersteMVC\obj\Debug\100DersteMVC.csproj.CoreCompileInputs.cache
 C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\100DersteMVC\obj\Debug\100DersteMVC.dll
 C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\100DersteMVC\obj\Debug\100DersteMVC.pdb
-C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\100DersteMVC\obj\Debug\100DersteMVC.csproj.CopyComplete
+C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\100DersteMVC\bin\PagedList.dll
+C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\100DersteMVC\bin\PagedList.Mvc.dll
+C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\100DersteMVC\bin\PagedList.xml
+C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\100DersteMVC\bin\PagedList.Mvc.xml

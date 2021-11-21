@@ -37,4 +37,3 @@ C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\BusinessLayer\obj\Debug\Bus
 C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\BusinessLayer\obj\Debug\BusinessLayer.pdb
-C:\Users\berke\Documents\GitHub\CampMvc\100DersteMVC\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete

@@ -15,6 +15,7 @@ namespace _100DersteMVC.Controllers
     {
         CategoryManager categoryManager = new CategoryManager(new EFCategoryDal());
 
+        //[Authorize(Roles="A")]
         public ActionResult Index()
         {
             var categoryValues = categoryManager.GetList();
